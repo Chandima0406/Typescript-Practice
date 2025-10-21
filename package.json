@@ -1,0 +1,23 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandima0406/Typescript-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandima0406/Typescript-Practice/issues"
+  },
+  "homepage": "https://github.com/Chandima0406/Typescript-Practice#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
